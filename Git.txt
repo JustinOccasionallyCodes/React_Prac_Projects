@@ -1,0 +1,14 @@
+echo "# React_Prac_Projects" >> README.md
+git init
+git add README.md
+git commit -m "React_project"
+git branch -M main
+git remote add origin https://github.com/JustinOccasionallyCodes/React_Prac_Projects.git
+git push -u origin main
+
+========================================================================================
+
+//ACP
+git add .
+git commit -m "React_project"
+git push -u origin main
